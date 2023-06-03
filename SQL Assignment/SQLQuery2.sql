@@ -1,0 +1,1 @@
+select firstname,lastname from person.Person where firstname like 'b%';
